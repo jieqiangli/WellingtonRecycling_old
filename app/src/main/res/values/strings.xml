@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wellington Recycling</string>
+    <string name="address_text">Address text placeholder</string>
+    <string name="next_collection_date_text">Your next weekly rubbish and recycling collection day is:</string>
+    <string name="place_on_kerb_text">Place on the kerb:</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
